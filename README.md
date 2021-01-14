@@ -4,6 +4,7 @@
 I am in my final semester, Masters of Applied Computer Science. I am also GA in the Computer Science Department.
 ## Background
 I am from India. I did my schooling and under graduation in India. I had experience in Tableau Visualizations, R, Python. Recently I cleared AWS Cloud Practioner certification. My hobbies are drawing and Dancing. I even had a drawing page on Facebook as Sudheera Arts.
+## Plans
 I am interested in data engineer jobs where I can use my experience.
 
 ## Links
