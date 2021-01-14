@@ -17,3 +17,6 @@ Here are my Links
 3. Tableau public (https://public.tableau.com/profile/sri1483#!/) 
 
 4. Github (https://github.com/sudheera96)
+
+
+Note : Most of the information above is similar to module 1: introduction assignment.
